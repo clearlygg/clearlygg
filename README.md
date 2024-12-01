@@ -1,52 +1,79 @@
-<div style="text-align:center; background-color:#1e1e1e; padding:20px; border-radius:10px; color:white;">
-  <div style="display:flex; align-items:center; justify-content:center; gap:15px;">
-    <h1 style="font-family: 'Arial', sans-serif; font-size: 3em; color:#00aaff; margin:0;">ClearlyGG</h1>
-  </div>
-  <p style="font-family: 'Arial', sans-serif; font-size: 1.2em; font-style: italic; color: #cccccc;">Self-Taught Programmer</p>
-  <p style="font-family: 'Arial', sans-serif; font-size: 1.1em; color: #888888; margin-top:5px;">I code things.</p>
-</div>
+<div align="center" style="padding: 30px; background-color: #1e1e1e; border-radius: 15px; color: white;">
 
-<div style="margin-top:30px;">
-  <h3 style="text-align:center; color:#00aaff; font-family: 'Arial', sans-serif; font-size: 2.2em;">Languages</h3>
-  <div style="display:flex; justify-content:center; flex-wrap:wrap; gap:15px;">
-    <img src="https://svgl-badge.vercel.app/api/Language/Python?theme=dark" style="height:50px;"/>
-    <img src="https://svgl-badge.vercel.app/api/Language/Lua?theme=dark" style="height:50px;"/>
-    <img src="https://svgl-badge.vercel.app/api/Language/TypeScript?theme=dark" style="height:50px;"/>
-    <img src="https://svgl-badge.vercel.app/api/Library/Discord.js?theme=dark" style="height:50px;"/>
-    <img src="https://svgl-badge.vercel.app/api/Software/Microsoft%20Azure?theme=dark" style="height:50px;"/>
-    <img src="https://svgl-badge.vercel.app/api/Library/React?theme=dark" style="height:50px;"/>
-    <img src="https://svgl-badge.vercel.app/api/Language/JavaScript?theme=dark" style="height:50px;"/>
-    <img src="https://svgl-badge.vercel.app/api/Language/HTML5?theme=dark" style="height:50px;"/>
-    <img src="https://svgl-badge.vercel.app/api/Language/CSS?theme=dark" style="height:50px;"/>
-    <img src="https://svgl-badge.vercel.app/api/Framework/Tailwind%20CSS?theme=dark" style="height:50px;"/>
-
-  </div>
-</div>
-
-<div style="margin-top:30px;">
-  <h3 style="text-align:center; color:#00aaff; font-family: 'Arial', sans-serif; font-size: 2.2em;">Tools</h3>
-  <div style="display:flex; justify-content:center; flex-wrap:wrap; gap:15px;">
-    <img src="https://svgl-badge.vercel.app/api/Software/Visual%20Studio?theme=dark" style="height:50px;"/>
-    <img src="https://svgl-badge.vercel.app/api/Software/Visual%20Studio%20Code?theme=dark" style="height:50px;"/>
-    <img src="https://svgl-badge.vercel.app/api/Software/Git?theme=dark" style="height:50px;"/>
-    <img src="https://svgl-badge.vercel.app/api/Software/Github?theme=dark" style="height:50px;"/>
-    <img src="https://svgl-badge.vercel.app/api/Library/Node.js?theme=dark" style="height:50px;"/>
-  </div>
-</div>
-
-<div style="margin-top:30px;">
-  <h3 style="text-align:center; color:#00aaff; font-family: 'Arial', sans-serif; font-size: 2.2em;">Contact</h3>
-  <div style="text-align:center;">
-    <a href="https://discord.com/users/924133673538830356">
-      <img src="https://svgl-badge.vercel.app/api/Software/Discord?theme=dark" style="height:50px;"/>
-    </a>
-    <a href="https://discord.com/users/924133673538830356">
-      <img src="https://svgl-badge.vercel.app/api/Software/Discord?theme=dark" style="height:50px;"/>
-    </a>
-  </div>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&color=00A8FF&center=true&vCenter=true&width=600&lines=Hello,+I'm+ClearlyGG+👋;Self-Taught+Programmer;I+Code+Things" alt="typing intro" />
   
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=ClearlyGG&show_icons=true&theme=radical" alt="GitHub stats" style="margin: 20px 0;" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ClearlyGG&theme=radical&hide_border=true" alt="streak stats" style="margin-bottom: 20px;" />
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=ClearlyGG&theme=radical&no-frame=true&row=1&column=6" alt="trophies" />
+
 </div>
 
-<div style="position:relative; bottom:0; right:0; padding-top:10px; text-align:right;">
-  <img height="15" src="https://komarev.com/ghpvc/?username=Riz-ve&abbreviated=true" />
+---
+
+<div align="center">
+  <p style="font-size: 1.2em; color: #cccccc;">
+    I'm a self taught programmer, game designer, manager & developer. I enjoy coding, and creating games on roblox.
+  </p>
+  <img src="https://skillicons.dev/icons?i=github,react,nodejs,python,typescript,lua,tailwind,vscode&perline=8" alt="technologies" />
+</div>
+
+---
+
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+
+  <div>
+    <h3 style="color: #00A8FF;">Languages</h3>
+    <img src="https://skillicons.dev/icons?i=python,lua,typescript,js,html,css,go,htmx,php" alt="languages" style="height:50px;" />
+  </div>
+
+  <div>
+    <h3 style="color: #00A8FF;">Frameworks</h3>
+    <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,nextjs,discordjs" alt="frameworks" style="height:50px;" />
+  </div>
+
+  <div>
+    <h3 style="color: #00A8FF;">Tools</h3>
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,azure, mongodb,pycharm,vercel" alt="tools" style="height:50px;" />
+  </div>
+
+</div>
+
+---
+
+<div align="center">
+  <h3 style="color: #00A8FF;">Some of My Favorite Work</h3>
+  
+  <a href="https://github.com/ClearlyGG/clearlygg">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ClearlyGG&repo=clearlygg&theme=radical" alt="Project 1" />
+  </a>
+  <a href="https://github.com/ClearlyGG/clearygg">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ClearlyGG&repo=clearlygg&theme=radical" alt="Project 2" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <a href="https://discord.com/users/899624765109702737">
+    <img src="https://skillicons.dev/icons?i=discord" alt="discord" style="height:50px;" />
+  </a>
+  <a href="https://x.com/clearlygg">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="twitter" style="height:50px;" />
+  </a>
+  <a href="mailto:clearlygg@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="gmail" style="height:50px;" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <p style="font-style: italic; color: #cccccc;">
+    "👨‍💻 When life gives you errors, just debug them in Python! 🐍💻"
+  </p>
+  <img src="https://readme-jokes.vercel.app/api" alt="jokes" />
 </div>
