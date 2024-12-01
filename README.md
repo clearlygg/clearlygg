@@ -18,29 +18,29 @@
   <p style="font-size: 1.2em; color: #cccccc;">
     I'm a self taught programmer, game designer, manager & developer. I enjoy coding, and creating games on roblox.
   </p>
-  <img src="https://skillicons.dev/icons?i=github,react,nodejs,python,typescript,lua,tailwind,vscode&perline=8" alt="technologies" />
 </div>
 
 ---
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
-  <div>
+  <div style="text-align: center;">
     <h3 style="color: #00A8FF;">Languages</h3>
     <img src="https://skillicons.dev/icons?i=python,lua,typescript,js,html,css,go,htmx,php" alt="languages" style="height:50px;" />
   </div>
 
-  <div>
+  <div style="text-align: center;">
     <h3 style="color: #00A8FF;">Frameworks</h3>
     <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,nextjs,discordjs" alt="frameworks" style="height:50px;" />
   </div>
 
-  <div>
+  <div style="text-align: center;">
     <h3 style="color: #00A8FF;">Tools</h3>
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,azure, mongodb,pycharm,vercel" alt="tools" style="height:50px;" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,azure,mongodb,pycharm,vercel,firebase" alt="tools" style="height:50px;" />
   </div>
 
 </div>
+
 
 ---
 
