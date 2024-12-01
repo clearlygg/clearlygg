@@ -23,7 +23,6 @@
     </div>
   </div>
 
-
 <div align="center">
   <h2 style="color: #00A8FF;">📈 GitHub Stats</h2>
   <div>
