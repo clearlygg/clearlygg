@@ -33,7 +33,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=ClearlyGG&theme=onedark&no-frame=true&margin-w=15" alt="trophies" style="margin-top: 20px;" />
 </div>
 
-
 <div align="center">
   <h2 style="color: #00A8FF;">💻 Projects</h2>
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
@@ -45,7 +44,6 @@
     </a>
   </div>
 </div>
----
 
 <div align="center">
   <h2 style="color: #00A8FF;">🌐 Let's Connect</h2>
