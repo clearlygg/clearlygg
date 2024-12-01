@@ -44,9 +44,7 @@
 
 ---
 
-<div align="center">
-  <h3 style="color: #00A8FF;">Some of My Favorite Work</h3>
-  
+<div align="center">  
   <a href="https://github.com/ClearlyGG/clearlygg">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ClearlyGG&repo=clearlygg&theme=radical" alt="Project 1" />
   </a>
