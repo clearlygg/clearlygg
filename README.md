@@ -7,7 +7,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&color=00A8FF&center=true&vCenter=true&width=600&lines=I+build+games+on+Roblox;I+love+learning+new+tech;Coding+is+my+superpower!" alt="typing intro" />
   </div>
 
-
 <div align="center" style="margin-top: 20px;">  
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 30px;">
     <div>
