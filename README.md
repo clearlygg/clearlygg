@@ -1,5 +1,4 @@
 <div align="center" style="padding: 20px; background:; border-radius: 20px; color: white;">
-
   <h1 style="font-size: 3em; margin-bottom: 0.5em;">👋 Hi, I'm <span style="color: #00A8FF;">ClearlyGG</span>!</h1>
   <p style="font-size: 1.2em;">Self-Taught Programmer | Game Developer | Manager</p>
 
