@@ -35,18 +35,6 @@
 </div>
 
 <div style="margin-top:30px;">
-  <h3 style="text-align:center; color:#00aaff; font-family: 'Arial', sans-serif; font-size: 2.2em;">Statistics</h3>
-  <div style="display:flex; justify-content:center; gap:30px;">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=clearlygg&theme=github_dark&show_icons=true" style="border-radius:10px;"/>
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=clearlygg&theme=github_dark&show_icons=false&card_width=350" style="border-radius:10px;"/>
-    </a>
-  </div>
-</div>
-
-<div style="margin-top:30px;">
   <h3 style="text-align:center; color:#00aaff; font-family: 'Arial', sans-serif; font-size: 2.2em;">Contact</h3>
   <div style="text-align:center;">
     <a href="https://discord.com/users/924133673538830356">
