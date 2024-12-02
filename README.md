@@ -4,7 +4,7 @@
   <p style="font-size: 1.2em;">Self-Taught Programmer | Game Developer | Manager</p>
 
   <div style="margin: 20px 0;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&color=00A8FF&center=true&vCenter=true&width=600&lines=I+build+games+on+Roblox;I+love+learning+new+tech;Coding+is+my+superpower!" alt="typing intro" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&gradient=true&color1=FF4500&color2=FFD700&center=true&vCenter=true&width=600&lines=I+am+a+Fullstack+Developer;I+craft+end-to-end+solutions" alt="typing intro" />
   </div>
 
 <div align="center" style="margin-top: 20px;">  
