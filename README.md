@@ -19,7 +19,7 @@
       </div>
     </div>
   </div>
-
+  
   <div style="margin-top: 60px; padding-top: 20px; border-top: 2px solid #00A8FF; display: inline-block;">
     <h3 style="color: #00A8FF; margin-bottom: 15px;">Discord</h3>
     <a href="https://discord.com/users/899624765109702737">
