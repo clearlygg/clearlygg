@@ -1,78 +1,60 @@
-<!-- GitHub Profile README — Clearly -->
+# Hey, I'm Clearly.
 
-<div align="center">
+**Full-Stack Developer · Roblox Developer**
 
-<h1>Clearly.</h1>
+I build modern web experiences, developer tools, and interactive systems. My work focuses on clean architecture, thoughtful design, and creating products that are both functional and visually refined.
 
-<p><strong>Full-Stack Developer · UI Engineer · Roblox Developer</strong></p>
-
-<p>I build polished interfaces, developer tools, and interactive experiences.</p>
-
-<p>
-  <a href="https://synccn.com">
-    <img alt="Synccn" src="https://img.shields.io/badge/Synccn-111113?style=for-the-badge&amp;logo=react&amp;logoColor=ffffff" />
-  </a>
-  <a href="https://clearlygg.com">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-111113?style=for-the-badge&amp;logo=vercel&amp;logoColor=ffffff" />
-  </a>
-  <a href="https://discord.com/users/899624765109702737">
-    <img alt="Discord" src="https://img.shields.io/badge/Discord-111113?style=for-the-badge&amp;logo=discord&amp;logoColor=ffffff" />
-  </a>
-</p>
-
-</div>
+Currently building **[Synccn](https://synccn.com)** — a modern UI component library for developers.
 
 ---
 
-### Featured projects
+### Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://synccn.com">01 / Synccn</a></h3>
-      <p>A growing library of React UI components you can copy into your projects, customize, and truly own.</p>
-      <p><strong>Component library · React · UI/UX</strong></p>
-      <a href="https://synccn.com"><strong>Explore synccn.com →</strong></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://clearlygg.com">02 / Clearly</a></h3>
-      <p>My personal corner of the web, showcasing the products, websites, and experiences I build.</p>
-      <p><strong>Portfolio · Full-stack · Creative development</strong></p>
-      <a href="https://clearlygg.com"><strong>Visit clearlygg.com →</strong></a>
-    </td>
-  </tr>
-</table>
+**[Synccn](https://synccn.com)** — UI Components & Developer Tools
+
+A growing collection of beautifully designed React components, application blocks, and customization tools. Built to help developers create polished interfaces without starting from scratch.
+
+`React` `TypeScript` `Tailwind CSS` `UI/UX`
+
+**[Visual Velocity](https://visualvelocity.org)** — Roblox Development Studio
+
+A Roblox development studio focused on creating immersive experiences, scalable game systems, and high-quality interactive content.
+
+`Roblox` `Luau` `Game Development`
+
+**[clearly.gg](https://clearlygg.com)** — Personal Portfolio
+
+My personal space on the web. A collection of projects, experiments, and the things I'm working on.
+
+`React` `TypeScript` `Vite`
+
+---
 
 ### Technologies
 
-**Languages**
+| Area | Technologies |
+|---|---|
+| Frontend | React, Next.js, TypeScript, JavaScript |
+| Styling | Tailwind CSS, CSS, HTML |
+| Backend | Node.js, REST APIs |
+| Game Development | Roblox Studio, Luau |
+| Tools & Platforms | Git, GitHub, Vercel, VS Code |
 
-<img alt="TypeScript, JavaScript, Python, Lua, Go, HTML and CSS" src="https://skillicons.dev/icons?i=ts,js,python,lua,go,html,css&amp;theme=dark" />
+### What I'm Working On
 
-**Frameworks & libraries**
+- Building and expanding **Synccn's** component ecosystem.
+- Developing scalable Roblox systems and experiences.
+- Exploring better developer workflows, interfaces, and tooling.
+- Creating fast, accessible, and carefully designed web applications.
 
-<img alt="React, Next.js, Tailwind CSS, Node.js and discord.js" src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,discordjs&amp;theme=dark" />
+---
 
-**Tools & platforms**
+### Find Me
 
-<img alt="VS Code, Git, GitHub, Vercel, Azure, MongoDB, PyCharm and Firebase" src="https://skillicons.dev/icons?i=vscode,git,github,vercel,azure,mongodb,pycharm,firebase&amp;theme=dark" />
+**Website:** [clearlygg.com](https://clearlygg.com)  
+**Synccn:** [synccn.com](https://synccn.com)  
+**GitHub:** [github.com/clearlygg](https://github.com/clearlygg)
 
-### A little about me
+---
 
-- Self-taught developer focused on clean design and practical engineering.
-- Building **[Synccn](https://synccn.com)** and experimenting with better developer experiences.
-- Also creating websites, automation tools, and Roblox experiences.
-
-### Find me online
-
-<div align="center">
-  <a href="https://discord.com/users/899624765109702737">
-    <img alt="Clearly's Discord presence" src="https://lanyard.cnrad.dev/api/899624765109702737?hideDecoration=true&amp;bg=0d1117" />
-  </a>
-  <p>
-    <a href="https://synccn.com">Synccn</a> &nbsp;·&nbsp;
-    <a href="https://clearlygg.com">Portfolio</a> &nbsp;·&nbsp;
-    <a href="https://github.com/clearlygg">GitHub</a> &nbsp;·&nbsp;
-    <a href="https://discord.com/users/899624765109702737">Discord</a>
-  </p>
-</div>
+*Good software should feel as good as it works.*
