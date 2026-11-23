@@ -1,29 +1,78 @@
-<div align="center" style="padding: 20px; background:; border-radius: 20px; color: white;">
+<!-- GitHub Profile README — Clearly -->
 
-  <h1 style="font-size: 3em; margin-bottom: 0.5em;">Hey there, I'm <span style="color: #00A8FF;">Clearly</h1>
-  <p style="font-size: 1.2em;">Self-Taught Programmer</p>
+<div align="center">
 
-  <div align="center" style="margin-top: 20px;">  
-    <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 30px;">
-      <div>
-        <h3 style="color: #00A8FF;">Languages</h3>
-        <img src="https://skillicons.dev/icons?i=python,lua,typescript,js,html,css,go" alt="languages" style="height: 50px;" />
-      </div>
-      <div>
-        <h3 style="color: #00A8FF;">Frameworks</h3>
-        <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,discordjs,nodejs" alt="frameworks" style="height: 50px;" />
-      </div>
-      <div>
-        <h3 style="color: #00A8FF;">Tools</h3>
-        <img src="https://skillicons.dev/icons?i=vscode,git,github,vercel,azure,mongodb,pycharm,firebase" alt="tools" style="height: 50px;" />
-      </div>
-    </div>
-  </div>
+<h1>Clearly.</h1>
 
-  <div style="margin-top: 60px; padding-top: 20px; border-top: 2px solid #00A8FF; display: inline-block;">
-    <h3 style="color: #00A8FF; margin-bottom: 15px;">Discord</h3>
-    <a href="https://discord.com/users/899624765109702737">
-      <img src="https://lanyard.cnrad.dev/api/899624765109702737?hideDecoration=true&bg=00000000"" alt="" />
-    </a>
-  </div>
+<p><strong>Full-Stack Developer · UI Engineer · Roblox Developer</strong></p>
+
+<p>I build polished interfaces, developer tools, and interactive experiences.</p>
+
+<p>
+  <a href="https://synccn.com">
+    <img alt="Synccn" src="https://img.shields.io/badge/Synccn-111113?style=for-the-badge&amp;logo=react&amp;logoColor=ffffff" />
+  </a>
+  <a href="https://clearlygg.com">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-111113?style=for-the-badge&amp;logo=vercel&amp;logoColor=ffffff" />
+  </a>
+  <a href="https://discord.com/users/899624765109702737">
+    <img alt="Discord" src="https://img.shields.io/badge/Discord-111113?style=for-the-badge&amp;logo=discord&amp;logoColor=ffffff" />
+  </a>
+</p>
+
+</div>
+
+---
+
+### Featured projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://synccn.com">01 / Synccn</a></h3>
+      <p>A growing library of React UI components you can copy into your projects, customize, and truly own.</p>
+      <p><strong>Component library · React · UI/UX</strong></p>
+      <a href="https://synccn.com"><strong>Explore synccn.com →</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://clearlygg.com">02 / Clearly</a></h3>
+      <p>My personal corner of the web, showcasing the products, websites, and experiences I build.</p>
+      <p><strong>Portfolio · Full-stack · Creative development</strong></p>
+      <a href="https://clearlygg.com"><strong>Visit clearlygg.com →</strong></a>
+    </td>
+  </tr>
+</table>
+
+### Technologies
+
+**Languages**
+
+<img alt="TypeScript, JavaScript, Python, Lua, Go, HTML and CSS" src="https://skillicons.dev/icons?i=ts,js,python,lua,go,html,css&amp;theme=dark" />
+
+**Frameworks & libraries**
+
+<img alt="React, Next.js, Tailwind CSS, Node.js and discord.js" src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,discordjs&amp;theme=dark" />
+
+**Tools & platforms**
+
+<img alt="VS Code, Git, GitHub, Vercel, Azure, MongoDB, PyCharm and Firebase" src="https://skillicons.dev/icons?i=vscode,git,github,vercel,azure,mongodb,pycharm,firebase&amp;theme=dark" />
+
+### A little about me
+
+- Self-taught developer focused on clean design and practical engineering.
+- Building **[Synccn](https://synccn.com)** and experimenting with better developer experiences.
+- Also creating websites, automation tools, and Roblox experiences.
+
+### Find me online
+
+<div align="center">
+  <a href="https://discord.com/users/899624765109702737">
+    <img alt="Clearly's Discord presence" src="https://lanyard.cnrad.dev/api/899624765109702737?hideDecoration=true&amp;bg=0d1117" />
+  </a>
+  <p>
+    <a href="https://synccn.com">Synccn</a> &nbsp;·&nbsp;
+    <a href="https://clearlygg.com">Portfolio</a> &nbsp;·&nbsp;
+    <a href="https://github.com/clearlygg">GitHub</a> &nbsp;·&nbsp;
+    <a href="https://discord.com/users/899624765109702737">Discord</a>
+  </p>
 </div>
