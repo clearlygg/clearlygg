@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://clearlygg.com" title="Visit my portfolio">
-    <img src="./assets/hero.svg" alt="Clearly — full-stack developer and UI engineer" width="100%" />
+    <img src="./hero.svg" alt="Clearly — full-stack developer and UI engineer" width="100%" />
   </a>
 </div>
 
@@ -28,7 +28,7 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://synccn.com">
-        <img src="./assets/synccn.svg" width="100%" alt="Synccn — React components you own" />
+        <img src="./synccn.svg" width="100%" alt="Synccn — React components you own" />
       </a>
       <p>
         <strong><a href="https://synccn.com">Synccn</a></strong> — a library of React UI components designed to be copied, customized, and owned. Built for developers who want control over every detail.
@@ -37,7 +37,7 @@
     </td>
     <td width="50%" valign="top">
       <a href="https://clearlygg.com">
-        <img src="./assets/portfolio.svg" width="100%" alt="Clearlygg — personal portfolio" />
+        <img src="./portfolio.svg" width="100%" alt="Clearlygg — personal portfolio" />
       </a>
       <p>
         <strong><a href="https://clearlygg.com">Clearlygg</a></strong> — my personal corner of the internet. Projects, experiments, the tools I use, and the things I'm working on.
