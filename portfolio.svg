@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="570" height="260" viewBox="0 0 570 260" role="img" aria-labelledby="title">
+<title id="title">Clearlygg — Personal developer portfolio</title>
+<defs>
+ <linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0d1017"/><stop offset="1" stop-color="#101920"/></linearGradient>
+ <pattern id="g" width="22" height="22" patternUnits="userSpaceOnUse"><path d="M22 0H0V22" fill="none" stroke="#718094" stroke-opacity=".09"/></pattern>
+ <clipPath id="c"><rect width="570" height="260" rx="17"/></clipPath>
+</defs>
+<g clip-path="url(#c)">
+ <rect width="570" height="260" fill="url(#b)"/><rect width="570" height="260" fill="url(#g)"/>
+ <path d="M0 0H570" stroke="#66d8ba" stroke-width="5"/>
+ <text x="29" y="39" font-size="12" fill="#8ca4a9" font-family="'DejaVu Sans Mono',monospace" letter-spacing="1.4">02 / PERSONAL SPACE</text>
+ <rect x="445" y="21" width="94" height="24" rx="12" fill="#17322e" stroke="#2a5852"/><circle cx="460" cy="33" r="3.2" fill="#68dbbb"/><text x="472" y="37" fill="#a9eedb" font-size="10" font-family="'DejaVu Sans Mono',monospace">ONLINE</text>
+ <text x="27" y="111" fill="#eff4f8" font-size="45" font-weight="800" font-family="Inter,Arial,sans-serif" letter-spacing="-2">clearly<tspan fill="#70dfc3">.gg</tspan></text>
+ <text x="30" y="144" fill="#c5d6de" font-size="15.5" font-family="Inter,Arial,sans-serif">A home for everything I build.</text>
+ <text x="30" y="168" fill="#7b939b" font-size="12" font-family="'DejaVu Sans Mono',monospace">WORK  /  STACK  /  CONTACT</text>
+ <line x1="29" y1="209" x2="541" y2="209" stroke="#324344"/>
+ <circle cx="36" cy="233" r="3" fill="#67dbbb"/><text x="50" y="238" fill="#d3e8e3" font-size="13" font-family="'DejaVu Sans Mono',monospace">clearlygg.com</text>
+ <text x="536" y="238" text-anchor="end" fill="#78dbbe" font-size="17" font-family="Inter,Arial,sans-serif">↗</text>
+ <!-- Git/structure graphic -->
+ <rect x="354" y="66" width="169" height="123" rx="12" fill="#0b1519" stroke="#34544e"/>
+ <rect x="369" y="81" width="9" height="9" rx="2" fill="#6bdbc0"/><text x="387" y="90" fill="#b6d0ca" font-family="'DejaVu Sans Mono',monospace" font-size="11">~/projects</text>
+ <path d="M373 102V170" stroke="#365b56" stroke-width="1.2"/>
+ <path d="M373 116H391 M373 141H391 M373 166H391" stroke="#365b56" stroke-width="1.2"/>
+ <circle cx="400" cy="116" r="5" fill="#66d7ba"/><circle cx="400" cy="141" r="5" fill="#297b6d"/><circle cx="400" cy="166" r="5" fill="#297b6d"/>
+ <text x="415" y="120" fill="#d6e6e1" font-family="'DejaVu Sans Mono',monospace" font-size="10.5">site.tsx</text>
+ <text x="415" y="145" fill="#8eb3a9" font-family="'DejaVu Sans Mono',monospace" font-size="10.5">stack.ts</text>
+ <text x="415" y="170" fill="#8eb3a9" font-family="'DejaVu Sans Mono',monospace" font-size="10.5">work.md</text>
+</g>
+<rect x=".8" y=".8" width="568.4" height="258.4" rx="16" fill="none" stroke="#2a4542" stroke-width="1.5"/>
+</svg>
