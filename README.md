@@ -1,100 +1,59 @@
-<!--
-  PROFILE README — clearlygg/clearlygg
-  All visuals are local SVGs. Keep the assets/ folder beside README.md.
-  No inline CSS, no JavaScript, no broken third-party stat widgets.
--->
 
-<div align="center">
-  <a href="https://clearlygg.com" title="Visit my portfolio">
-    <img src="./hero.svg" alt="Clearly — full-stack developer and UI engineer" width="100%" />
-  </a>
-</div>
+
+<a href="https://clearlygg.com" title="Visit clearlygg.com">
+  <img src="./hero.svg" width="100%" alt="clearly.gg — full-stack developer and UI engineer" />
+</a>
 
 <p align="center">
-  <a href="https://synccn.com"><img src="https://img.shields.io/badge/SYNCCN-UI%20COMPONENTS-00a8ff?style=for-the-badge&labelColor=101721" alt="Synccn" /></a>&nbsp;
-  <a href="https://clearlygg.com"><img src="https://img.shields.io/badge/PORTFOLIO-CLEARLY.GG-65d7bd?style=for-the-badge&labelColor=101721" alt="Portfolio" /></a>&nbsp;
-  <a href="https://discord.com/users/899624765109702737"><img src="https://img.shields.io/badge/DISCORD-CONNECT-c6d4e1?style=for-the-badge&logo=discord&logoColor=white&labelColor=101721" alt="Discord" /></a>
+  <a href="https://clearlygg.com"><img src="https://img.shields.io/badge/portfolio-clearlygg.com-5fd6b6?style=flat-square&labelColor=0d1117" alt="Portfolio" /></a>
+  <a href="https://synccn.com"><img src="https://img.shields.io/badge/building-synccn.com-00a8ff?style=flat-square&labelColor=0d1117" alt="Synccn" /></a>
+  <a href="https://discord.com/users/899624765109702737"><img src="https://img.shields.io/badge/discord-say%20hi-8a9bb0?style=flat-square&logo=discord&logoColor=white&labelColor=0d1117" alt="Discord" /></a>
 </p>
-
-<div align="center">
-  <samp>developer by curiosity. engineer by obsession. always building.</samp>
-</div>
-
-<br />
 
 ## <samp>01 // selected_work</samp>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://synccn.com">
-        <img src="./synccn.svg" width="100%" alt="Synccn — React components you own" />
-      </a>
-      <p>
-        <strong><a href="https://synccn.com">Synccn</a></strong> — a library of React UI components designed to be copied, customized, and owned. Built for developers who want control over every detail.
-      </p>
-      <sub><code>React</code> · <code>TypeScript</code> · <code>UI Engineering</code></sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://clearlygg.com">
-        <img src="./portfolio.svg" width="100%" alt="Clearlygg — personal portfolio" />
-      </a>
-      <p>
-        <strong><a href="https://clearlygg.com">Clearlygg</a></strong> — my personal corner of the internet. Projects, experiments, the tools I use, and the things I'm working on.
-      </p>
-      <sub><code>TypeScript</code> · <code>React</code> · <code>Frontend</code></sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://synccn.com"><img src="./synccn.svg" width="49%" alt="synccn — React components you own. synccn.com" /></a>
+  <a href="https://clearlygg.com"><img src="./portfolio.svg" width="49%" alt="clearly.gg — a home for everything I build. clearlygg.com" /></a>
+</p>
 
-<br />
+- **[synccn](https://synccn.com)** — React + Tailwind components you copy into your project and own outright. No black-box package, every detail is yours to change.
+- **[clearly.gg](https://clearlygg.com)** — my corner of the internet: projects, experiments, and the tools I use.
 
-## <samp>02 // the_toolchain</samp>
+## <samp>02 // toolchain</samp>
 
-<table>
-  <tr>
-    <td width="160"><samp><strong>LANGUAGES</strong></samp></td>
-    <td><img src="https://skillicons.dev/icons?i=ts,js,python,go,lua,html,css&theme=dark" alt="TypeScript, JavaScript, Python, Go, Lua, HTML, CSS" /></td>
-  </tr>
-  <tr>
-    <td><samp><strong>FRAMEWORKS</strong></samp></td>
-    <td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,discordjs&theme=dark" alt="React, Next.js, Tailwind CSS, Node.js, Discord.js" /></td>
-  </tr>
-  <tr>
-    <td><samp><strong>TOOLING</strong></samp></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,azure,mongodb,pycharm,firebase&theme=dark" alt="Git, GitHub, VS Code, Vercel, Azure, MongoDB, PyCharm, Firebase" /></td>
-  </tr>
-</table>
+<p align="center">
+  <sub><samp>LANGUAGES</samp></sub><br />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,go,lua,html,css&theme=dark" alt="TypeScript, JavaScript, Python, Go, Lua, HTML, CSS" />
+</p>
+<p align="center">
+  <sub><samp>FRAMEWORKS</samp></sub><br />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,discordjs&theme=dark" alt="React, Next.js, Tailwind CSS, Node.js, Discord.js" />
+</p>
+<p align="center">
+  <sub><samp>TOOLING</samp></sub><br />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,azure,mongodb,pycharm,firebase&theme=dark" alt="Git, GitHub, VS Code, Vercel, Azure, MongoDB, PyCharm, Firebase" />
+</p>
 
-<br />
-
-## <samp>03 // runtime_config</samp>
+## <samp>03 // config</samp>
 
 ```ts
-const clearly = {
+export const clearly = {
   role: "self-taught developer",
   focus: ["UI systems", "developer tools", "Roblox engineering"],
-  building: {
-    synccn: "https://synccn.com",
-    portfolio: "https://clearlygg.com",
-  },
-  philosophy: "make it fast. make it useful. make it feel right.",
+  shipping: ["synccn.com", "clearlygg.com"],
+  motto: "make it fast. make it useful. make it feel right.",
 } as const;
 ```
 
-<br />
-
-## <samp>04 // live_presence</samp>
+## <samp>04 // right_now</samp>
 
 <p align="center">
-  <a href="https://discord.com/users/899624765109702737" title="Connect with me on Discord">
-    <img src="https://lanyard.cnrad.dev/api/899624765109702737?hideDecoration=true&bg=0b1018&borderRadius=14px" alt="Clearly's live Discord presence" />
+  <a href="https://discord.com/users/899624765109702737" title="Find me on Discord">
+    <img src="https://lanyard.cnrad.dev/api/899624765109702737?hideDecoration=true&bg=0d1117&borderRadius=14px" alt="Clearly's live Discord status" />
   </a>
 </p>
 
----
-
 <p align="center">
-  <samp>git push origin main&nbsp;&nbsp; // keep shipping</samp><br />
-  <sub><a href="https://synccn.com">synccn.com</a> &nbsp;·&nbsp; <a href="https://clearlygg.com">clearlygg.com</a> &nbsp;·&nbsp; <a href="https://github.com/clearlygg">@clearlygg</a></sub>
+  <sub><samp>git push origin main // keep shipping</samp></sub>
 </p>
