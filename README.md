@@ -18,7 +18,7 @@
 </p>
 
 - **[synccn](https://synccn.com)** — React + Tailwind components you copy into your project and own outright. No black-box package, every detail is yours to change.
-- **[clearly.gg](https://clearlygg.com)** — my corner of the internet: projects, experiments, and the tools I use.
+- **[clearlygg](https://clearlygg.com)** — my corner of the internet: projects, experiments, and the tools I use.
 
 ## <samp>02 // toolchain</samp>
 
